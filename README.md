@@ -1,4 +1,7 @@
 # AOD [![Build status][travis-image]][travis-url] 
+
+[![Greenkeeper badge](https://badges.greenkeeper.io/yakovlevgleb/AOD.svg)](https://greenkeeper.io/)
+
 20 Jan 2018
 
 ## Install & Run
